@@ -1,5 +1,5 @@
 ae=8
-
+--Credits: lopip (the person who made the code)
 function numtoclr(n)
 
     local r = math.floor(n/ae^2) % ae
